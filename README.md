@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neonovycanon
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML projects in the field of Oil and Gas processing. I'm currently planning writing an article about ML implications in LNG plants design. 
 - 📫 How to reach me ...
 
 <!---
